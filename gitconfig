@@ -1,0 +1,5 @@
+[alias]
+	lol = log --decorate --pretty  --graph --stat
+	l = log --decorate --pretty --oneline
+	s = status -s --ahead-behind
+	ac = add *.c
