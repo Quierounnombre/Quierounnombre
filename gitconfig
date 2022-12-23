@@ -3,3 +3,10 @@
 	l = log --decorate --pretty --oneline
 	s = status -s --ahead-behind
 	ac = add *.c
+	c = commit -m
+	po = push origin master
+	pp = push personal master
+	r = remote
+	rp = remote add personal master
+	ro = remote add personal master
+	aa = add *
