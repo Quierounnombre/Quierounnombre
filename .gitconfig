@@ -12,5 +12,6 @@
 	aa = add *
 	suba = submodule add
 	subp = submodule update --merge --remote
+	subc = submodule update --init --recursive
 [status]
 	submodulesummary = true
