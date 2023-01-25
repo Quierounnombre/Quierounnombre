@@ -10,3 +10,7 @@
 	rp = remote add personal master
 	ro = remote add personal master
 	aa = add *
+	suba = submodule add
+	subp = submodule update --merge --remote
+[status]
+	submodulesummary = true
