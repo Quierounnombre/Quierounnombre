@@ -10,6 +10,9 @@
 	rp = remote add personal master
 	ro = remote add personal master
 	aa = add *
+	ch = checkout
+	cho = checkout master
+	chv = checkout Vicente
 	suba = submodule add
 	subp = submodule update --merge --remote
 	subc = submodule update --init --recursive
