@@ -2,11 +2,13 @@
 	lol = log --decorate --pretty  --graph --stat
 	l = log --decorate --pretty --oneline
 	s = status -s --ahead-behind
-	ac = add *.c
+	ac = add *.c *.h Makefile
 	c = commit -m
 	po = push origin master
+	pov = push origin Vicente
 	pp = push personal master
 	r = remote
+	b = branch
 	rp = remote add personal master
 	ro = remote add personal master
 	aa = add *
