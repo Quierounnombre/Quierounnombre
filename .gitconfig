@@ -1,16 +1,18 @@
 [alias]
 	lol = log --decorate --pretty  --graph --stat
 	l = log --decorate --pretty --oneline
-	s = status -s --ahead-behind -b
-	ac = add *.c *.h Makefile
+	s = status -s --ahead-behind
+	sb = status -s --ahead-behind -b 
+	ac = add *.c *.cpp *.h Makefile
 	c = commit -m
 	po = push origin master
 	pov = push origin Vicente
 	pp = push personal master
+	p = push
 	r = remote
 	b = branch
-	rp = remote add personal master
-	ro = remote add personal master
+	rp = remote add personal
+	ro = remote add origin
 	aa = add *
 	ch = checkout
 	cho = checkout master
