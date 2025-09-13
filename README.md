@@ -3,7 +3,7 @@
 
 <h3 align="center">🚀 Featured Projects</h3>
 <a href="https://github.com/Quierounnombre/Ft_rascendance" target="_blank" rel="noopener noreferrer">Ft_rascendance</a>
-<p align="left">Online Pong game</p>
+<p align="left"><strong>Online Pong game</strong> — final project for <strong>42 Common Core</strong>.</p>
 <ul>
 	<li>Custom game engine</li>
 	<li>User management</li>
