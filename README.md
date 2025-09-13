@@ -4,6 +4,15 @@
 <h3 align="center">🚀 Featured Projects</h3>
 <a href="https://github.com/Quierounnombre/Ft_rascendance" target="_blank" rel="noopener noreferrer">Ft_rascendance</a>
 <p align="left">Online Pong game</p>
+<ul>
+	<li>Custom game engine</li>
+	<li>User management</li>
+	<li>Microservices architecture</li>
+	<li>OAuth authentication</li>
+	<li>Friend system</li>
+	<li>Localization</li>
+	<li>Single Page Application (SPA) frontend</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
