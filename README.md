@@ -2,28 +2,17 @@
 <h3 align="center">I am a Backend engineer from spain with a background in business.</h3>
 
 <h3 align="center">🚀 Featured Projects</h3>
-
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="https://github.com/Quierounnombre/Ft_rascendance" 
-     target="_blank" 
-     rel="noopener noreferrer" 
-     style="font-size: 1.2em; font-weight: bold; color: #1e90ff; text-decoration: none; display: inline-block; margin-bottom: 10px;">
-    Ft_rascendance
-  </a>
-</div>
-
-<div style="max-width: 700px; margin: 0 auto; line-height: 1.6;">
-  <p><strong>Online Pong game</strong> — final project for <strong>42 Common Core</strong>.</p>
-  <ul>
-    <li>Custom game engine</li>
-    <li>User management</li>
-    <li>Microservices architecture</li>
-    <li>OAuth authentication</li>
-    <li>Friend system</li>
-    <li>Localization</li>
-    <li>Single Page Application (SPA) frontend</li>
-  </ul>
-</div>
+<a href="https://github.com/Quierounnombre/Ft_rascendance" target="_blank" rel="noopener noreferrer">Ft_rascendance</a>
+<p align="left"><strong>Online Pong game</strong> — final project for <strong>42 Common Core</strong>.</p>
+<ul>
+	<li>Custom game engine</li>
+	<li>User management</li>
+	<li>Microservices architecture</li>
+	<li>OAuth authentication</li>
+	<li>Friend system</li>
+	<li>Localization</li>
+	<li>Single Page Application (SPA) frontend</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
