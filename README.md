@@ -25,18 +25,6 @@
   </ul>
 </div>
 
-<a href="https://github.com/Quierounnombre/Ft_rascendance" target="_blank" rel="noopener noreferrer">Ft_rascendance</a>
-<p align="left"><strong>Online Pong game</strong> — final project for <strong>42 Common Core</strong>.</p>
-<ul>
-	<li>Custom game engine</li>
-	<li>User management</li>
-	<li>Microservices architecture</li>
-	<li>OAuth authentication</li>
-	<li>Friend system</li>
-	<li>Localization</li>
-	<li>Single Page Application (SPA) frontend</li>
-</ul>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vicente-garcia-andrade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vicente-garcia-andrade/" height="30" width="40" /></a>
