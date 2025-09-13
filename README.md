@@ -1,45 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vicente</h1>
 <h3 align="center">I am a Backend engineer from spain with a background in business.</h3>
 
-<section>
-  <h2>🚀 Featured Projects</h2>
-
-  <article>
-    <h3>
-      <a href="https://github.com/Quierounnombre/Ft_rascendance" target="_blank" rel="noopener noreferrer">
-        Ft_rascendance
-      </a>
-    </h3>
-
-    <p><strong>Online Pong game</strong> — final project for <strong>42 Common Core</strong>.</p>
-
-    <p><strong>Features:</strong></p>
-    <ul>
-      <li>Custom game engine</li>
-      <li>User management</li>
-      <li>Microservices architecture</li>
-      <li>OAuth authentication</li>
-      <li>Friend system</li>
-      <li>Localization</li>
-      <li>Single Page Application (SPA) frontend</li>
-    </ul>
-  </article>
-</section>
-
 <h3 align="center">🚀 Featured Projects</h3>
-<p align="left">
-### [Ft_rascendance](https://github.com/Quierounnombre/Ft_rascendance)
-Online Pong game with:
-- Custom game engine  
-- User management  
-- Microservices architecture  
-- OAuth authentication  
-- Friend system  
-- Localization  
-- SPA frontend  
-
-Final project for **42 Common Core**.  
-</p>
+<a href="https://github.com/Quierounnombre/Ft_rascendance" target="_blank" rel="noopener noreferrer">Ft_rascendance</a>
+<p align="left">Online Pong game</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
