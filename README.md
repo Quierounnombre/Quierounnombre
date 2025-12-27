@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vicente</h1>
-<h3 align="center">I am a Backend engineer from spain with a background in business.</h3>
+<h3 align="center">I am a Backend engineer from Spain with a background in business.</h3>
 
 <h3 align="center">🚀 Featured Projects</h3>
 <a href="https://github.com/Quierounnombre/Ft_rascendance" target="_blank" rel="noopener noreferrer">Ft_rascendance</a>
